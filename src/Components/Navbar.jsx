@@ -4,7 +4,7 @@ const  Navbar = ({setcategory}) => {
   return (
     <nav className="navbar navbar-expand-lg bg-dark text-light" data-bs-theme="Dark">
   <div className="container-fluid">
-    <a className="navbar-brand" href="#"><span className="badge bg-light text-dark">NewsMac</span></a>
+  <span className="badge bg-light text-dark">NewsMac</span>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
