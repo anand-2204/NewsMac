@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/NewsMac/static/css/main.31d6cfe0.css",
-    "main.js": "/NewsMac/static/js/main.4e13fe42.js",
+    "main.js": "/NewsMac/static/js/main.bcc80ab9.js",
     "static/js/453.c775f1e3.chunk.js": "/NewsMac/static/js/453.c775f1e3.chunk.js",
     "index.html": "/NewsMac/index.html",
-    "main.4e13fe42.js.map": "/NewsMac/static/js/main.4e13fe42.js.map",
+    "main.bcc80ab9.js.map": "/NewsMac/static/js/main.bcc80ab9.js.map",
     "453.c775f1e3.chunk.js.map": "/NewsMac/static/js/453.c775f1e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.4e13fe42.js"
+    "static/js/main.bcc80ab9.js"
   ]
 }
